@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mensajes fecha="31/03/2017">
+  <mensaje>
+    <de>Pepe (Pepe@ejemplo.com)</de>
+    <para>Juan (Juan@ejemplo.com)</para>
+    <hora>17:48</hora>
+    <texto>Hola Juan, ¿qué haces?</texto>
+  </mensaje>
+  <mensaje>
+    <de>Juan (Juan@ejemplo.com)</de>
+    <para>Pedro (Pedro@ejemplo.com)</para>
+    <hora>21:15</hora>
+    <texto>Aquí, aprendiendo XML</texto>
+  </mensaje>
+</mensajes>
