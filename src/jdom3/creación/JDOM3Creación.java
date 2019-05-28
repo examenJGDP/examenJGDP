@@ -22,6 +22,8 @@ public class JDOM3Creación {
     @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) {
         // TODO code application logic here
+        // Cambio realizado
+        System.out.println("Cambio realizado.");
         
         Element Eraiz=new Element("mensajes");
         Document docRSS=new Document(Eraiz);
